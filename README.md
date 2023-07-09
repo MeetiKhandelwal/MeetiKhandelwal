@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Meeti Khandelwal. I am a software developer at JPMC. 
+
 <!--
 **MeetiKhandelwal/MeetiKhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
